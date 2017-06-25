@@ -1,0 +1,27 @@
+
+@font-face {
+    font-family: SeoulNamsanFont;
+    src: url("../../font/SeoulNamsanL.woff") format('woff');
+}
+
+@font-face {
+    font-family: SeoulNamsanFont;
+    src: url("../../font/SeoulNamsanEB.ttf");
+    font-weight: bold;
+}
+
+.papers {
+	font-family: SeoulNamsanFont;
+}
+
+.team {
+	font-family: SeoulNamsanFont;
+}
+.text p{
+	font-family: SeoulNamsanFont;
+}
+.koreatech{
+	margin:auto; 
+	font-family: SeoulNamsanFont; 
+	text-align: center;
+}

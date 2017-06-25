@@ -1,0 +1,17 @@
+.Hollywood {background:#fff url("../../images/roller-coaster-1519818_1920.jpg") no-repeat}
+.Orlando {background:#fff url("../../images/kuwait-252613_1920.jpg") no-repeat}
+.Singapore {background:#fff url("../../images/amusement-park-amusement-parks-hd-pretty-wallpaper-1920x1080.jpg") no-repeat}
+.Japan {background:#fff url("../../images/amusement-park-amusement-parks-hd-bonny-wallpaper-1920x1080.jpg") no-repeat}
+.locations{background:#fff url("../../images/christmas-08.jpg") no-repeat}
+
+@font-face {
+    font-family: "SeoulHangangM";
+    src: url("../../font/SeoulHangangM.woff") format('woff');
+}
+.intro a, #section_6{
+	font-family: 'SeoulHangangM';
+}
+iframe{
+   padding-top: 50px;
+   width:100%
+}
